@@ -1,9 +1,8 @@
 ---
 published: true
 layout: post
-title:How To Deploy/Debug Your android App Over Wifi
+title: How To Deploy/Debug Your android App Over Wifi
 ---
-
 
 
 ![Android]({{site.baseurl}}/https://assets.materialup.com/uploads/0f6ed913-86b5-4b72-9cf8-2241afe9816e/IuCeOi1.png)
